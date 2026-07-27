@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
