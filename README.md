@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
