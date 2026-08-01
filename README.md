@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0016-3sum-closest) |
+| [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
