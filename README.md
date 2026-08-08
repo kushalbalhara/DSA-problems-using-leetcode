@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0877-stone-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
