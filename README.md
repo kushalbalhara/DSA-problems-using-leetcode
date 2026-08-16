@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0036-valid-sudoku) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
