@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0041-first-missing-positive) |
 | [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0877-stone-game) |
