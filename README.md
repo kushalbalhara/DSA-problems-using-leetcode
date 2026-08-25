@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0877-stone-game) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1140-stone-game-ii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kushalbalhara/DSA-problems-using-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
